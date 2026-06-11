@@ -1,0 +1,26 @@
+team_id,team_name,team_type,captain,coach,t20i_matches,t20i_wins,t20i_losses,t20i_recent_form,t20i_ranking,t20i_trophies,odi_matches,odi_wins,odi_losses,odi_recent_form,odi_ranking,odi_trophies,test_matches,test_wins,test_losses,test_recent_form,test_ranking,test_trophies,ipl_matches,ipl_wins,ipl_losses,ipl_recent_form,ipl_leaderboard,ipl_trophies,bat_first_wins,bat_second_wins,chasing_success_rate,defending_success_rate
+INT001,India,International,Captain TBD,Coach TBD,235,155,70,"W,W,L,W,W",1,T20 World Cup: 2,1080,575,460,"W,L,W,W,L",2,ODI World Cup: 2; Champions Trophy: 2,590,180,180,"W,W,D,L,W",1,WTC Finals: 2,,,,,,,92,63,61,58
+INT002,Australia,International,Captain TBD,Coach TBD,205,115,85,"W,L,W,L,W",2,T20 World Cup: 1,1000,610,350,"W,W,W,L,W",1,ODI World Cup: 6; Champions Trophy: 2,870,410,230,"W,D,W,L,W",2,WTC: 1,,,,,,,88,71,64,60
+INT003,England,International,Captain TBD,Coach TBD,200,105,90,"L,W,W,L,W",3,T20 World Cup: 2,800,400,360,"L,W,L,W,W",3,ODI World Cup: 1,1080,400,330,"L,W,D,W,L",3,WTC Finals: 0,,,,,,,75,60,58,55
+INT004,New Zealand,International,Captain TBD,Coach TBD,210,110,95,"W,W,L,L,W",4,T20 World Cup: 0,820,380,390,"W,L,W,L,W",4,Champions Trophy: 1,480,115,180,"W,D,L,W,W",4,WTC: 1,,,,,,,80,55,57,56
+INT005,South Africa,International,Captain TBD,Coach TBD,190,105,80,"W,W,W,L,W",5,T20 World Cup: 0,680,410,240,"W,W,L,W,L",5,Champions Trophy: 1,470,180,160,"W,L,W,D,W",5,WTC: 1,,,,,,,78,58,59,57
+INT006,Pakistan,International,Captain TBD,Coach TBD,240,145,90,"L,W,L,W,W",6,T20 World Cup: 1,960,500,420,"W,L,L,W,W",6,ODI World Cup: 1; Champions Trophy: 1,460,150,140,"L,D,W,L,W",6,WTC Finals: 0,,,,,,,82,62,60,56
+INT007,Sri Lanka,International,Captain TBD,Coach TBD,190,85,100,"L,L,W,W,L",7,T20 World Cup: 1,920,410,470,"L,W,W,L,L",7,ODI World Cup: 1; Champions Trophy: 1,320,100,120,"W,L,D,L,W",7,WTC Finals: 0,,,,,,,60,45,52,49
+INT008,Bangladesh,International,Captain TBD,Coach TBD,175,70,100,"W,L,L,W,L",8,T20 World Cup: 0,440,160,260,"L,W,W,L,L",8,Major ICC Trophy: 0,150,22,110,"L,L,D,W,L",8,WTC Finals: 0,,,,,,,45,35,48,44
+INT009,West Indies,International,Captain TBD,Coach TBD,200,95,100,"L,W,W,L,L",9,T20 World Cup: 2,880,420,420,"L,L,W,W,L",9,ODI World Cup: 2; Champions Trophy: 1,580,185,210,"L,W,D,L,L",9,WTC Finals: 0,,,,,,,62,48,53,50
+INT010,Afghanistan,International,Captain TBD,Coach TBD,135,85,45,"W,W,L,W,L",10,T20 World Cup: 0,170,85,80,"W,L,W,W,L",10,Major ICC Trophy: 0,10,3,7,"L,W,L,L,W",10,WTC Finals: 0,,,,,,,50,35,56,54
+INT011,Zimbabwe,International,Captain TBD,Coach TBD,160,60,95,"L,L,W,L,W",11,T20 World Cup: 0,570,150,390,"L,W,L,L,W",11,Major ICC Trophy: 0,120,15,75,"L,D,L,W,L",11,WTC Finals: 0,,,,,,,35,25,42,40
+INT012,Ireland,International,Captain TBD,Coach TBD,160,65,90,"W,L,L,L,W",12,T20 World Cup: 0,200,80,115,"L,L,W,L,W",12,Major ICC Trophy: 0,10,1,9,"L,L,L,W,L",12,WTC Finals: 0,,,,,,,36,29,44,41
+INT013,Netherlands,International,Captain TBD,Coach TBD,120,55,60,"L,W,L,W,L",13,T20 World Cup: 0,130,45,80,"W,L,L,W,L",13,Major ICC Trophy: 0,0,0,0,NA,,No Test status,,,,,,,28,27,46,43
+INT014,Scotland,International,Captain TBD,Coach TBD,110,50,55,"W,L,W,L,L",14,T20 World Cup: 0,160,65,90,"L,W,L,L,W",14,Major ICC Trophy: 0,0,0,0,NA,,No Test status,,,,,,,27,23,45,42
+INT015,Nepal,International,Captain TBD,Coach TBD,95,50,40,"W,W,L,L,W",15,T20 World Cup: 0,70,35,32,"W,L,W,W,L",15,Major ICC Trophy: 0,0,0,0,NA,,No Test status,,,,,,,29,21,50,48
+IPL001,Chennai Super Kings,IPL,Captain TBD,Coach TBD,,,,,,,,,,,,,,,,,,,250,145,105,"W,W,L,W,L",1,IPL: 5; Champions League T20: 2,82,63,61,59
+IPL002,Mumbai Indians,IPL,Captain TBD,Coach TBD,,,,,,,,,,,,,,,,,,,255,145,110,"L,W,L,W,W",2,IPL: 5; Champions League T20: 2,85,60,58,60
+IPL003,Royal Challengers Bengaluru,IPL,Captain TBD,Coach TBD,,,,,,,,,,,,,,,,,,,250,120,130,"W,W,W,L,W",3,IPL: 1,65,55,57,52
+IPL004,Kolkata Knight Riders,IPL,Captain TBD,Coach TBD,,,,,,,,,,,,,,,,,,,245,130,115,"W,L,W,W,W",4,IPL: 3,75,58,59,57
+IPL005,Sunrisers Hyderabad,IPL,Captain TBD,Coach TBD,,,,,,,,,,,,,,,,,,,200,105,95,"L,W,W,L,W",5,IPL: 1,62,43,55,54
+IPL006,Rajasthan Royals,IPL,Captain TBD,Coach TBD,,,,,,,,,,,,,,,,,,,220,105,115,"W,L,L,W,W",6,IPL: 1,58,47,54,51
+IPL007,Delhi Capitals,IPL,Captain TBD,Coach TBD,,,,,,,,,,,,,,,,,,,245,110,135,"L,W,L,L,W",7,IPL: 0,57,53,51,48
+IPL008,Punjab Kings,IPL,Captain TBD,Coach TBD,,,,,,,,,,,,,,,,,,,245,105,140,"W,L,W,L,L",8,IPL: 0,54,51,50,47
+IPL009,Lucknow Super Giants,IPL,Captain TBD,Coach TBD,,,,,,,,,,,,,,,,,,,50,28,22,"W,W,L,L,W",9,IPL: 0,15,13,56,54
+IPL010,Gujarat Titans,IPL,Captain TBD,Coach TBD,,,,,,,,,,,,,,,,,,,55,35,20,"L,W,W,W,L",10,IPL: 1,20,15,64,60
