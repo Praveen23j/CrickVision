@@ -127,7 +127,7 @@ def get_live_scores():
         print("STATUS CODE:", response.status_code)
         print("RESPONSE TEXT:", response.text)
 
-        response.raise_for_status()
+        #response.raise_for_status()
         api_data = response.json()
 
         matches = []
