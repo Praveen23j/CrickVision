@@ -49,11 +49,23 @@ def get_live_scores():
             "apikey": API_KEY
         }
 
+        url = f"{CRICAPI_URL}?apikey={API_KEY}&offset=0"
+
+        headers = {
+            "User-Agent": "Mozilla/5.0",
+        "Accept": "application/json"
+        }
+
         response = requests.get(
-            CRICAPI_URL,
-            params=params,
-            timeout=10
+           url,
+           headers=headers,
+           timeout=20
         )
+
+        print("API KEY LOADED:", bool(API_KEY), flush=True)
+        print("REQUEST URL:", CRICAPI_URL, flush=True)
+        print("STATUS CODE:", response.status_code, flush=True)
+        print("RESPONSE TEXT:", response.text[:1000], flush=True)
 
         response.raise_for_status()
         data = response.json()
