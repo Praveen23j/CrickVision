@@ -123,6 +123,9 @@ def get_live_scores():
             params={"apikey": API_KEY},
             timeout=10
         )
+        print("API KEY LOADED:", bool(API_KEY))
+        print("STATUS CODE:", response.status_code)
+        print("RESPONSE TEXT:", response.text)
 
         response.raise_for_status()
         api_data = response.json()
