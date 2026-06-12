@@ -119,10 +119,10 @@ def get_live_scores():
 
     try:
         response = requests.get(
-            CRICAPI_URL,
-            params={"apikey": API_KEY},
-            timeout=10
-        )
+    f"{CRICAPI_URL}?apikey={API_KEY}",
+    timeout=10
+    )
+        
         print("API KEY LOADED:", bool(API_KEY))
         print("STATUS CODE:", response.status_code)
         print("RESPONSE TEXT:", response.text)
